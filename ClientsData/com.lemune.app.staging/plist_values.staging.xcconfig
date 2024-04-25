@@ -1,0 +1,17 @@
+//
+//  Config1.xcconfig
+//  testConfiguration
+//
+//  Created by Mohammad Alabed on 03/04/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Pods/Target Support Files/Pods-projBatata/Pods-projBatata.staging.xcconfig"
+APP_NAME = test lemune
+APP_BUNDLE_IDENTIFIER = com.lemune.app.staging
+FirebaseDynamicLinksCustomDomains = ['https://app.hala.com']
+BundleURLName = com.lemune.app.staging
+BundleUrlSchemes = [a,b,c,d]
+CFBundleURLTypes = 'keep this value'
+AssociatedDomains = [applinks:example.com2,applinks:sub.example.com2]

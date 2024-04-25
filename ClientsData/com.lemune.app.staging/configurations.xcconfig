@@ -1,0 +1,18 @@
+//
+//  Config1.xcconfig
+//  testConfiguration
+//
+//  Created by Mohammad Alabed on 03/04/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_NAME = TEST
+
+// The name of the bundle id for staging
+APP_BUNDLE_IDENTIFIER = com.test.lemune.staging
+
+fontName1 = CampanaScriptPERSONALUSE-Regular
+fontName2 = LTPerfume-Regular
+fontName3 = KasperLullabyRegular
+text1Color = 0xeff924

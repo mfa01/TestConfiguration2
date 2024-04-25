@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  testConfiguration
+//  testlaunchscreen
 //
-//  Created by Mohammad Alabed on 03/04/2024.
+//  Created by Mohammad Alabed on 01/04/2024.
 //
 
 import UIKit
@@ -10,7 +10,7 @@ import UIKit
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
+    var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.

@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  testConfiguration
+//  testlaunchscreen
 //
-//  Created by Mohammad Alabed on 03/04/2024.
+//  Created by Mohammad Alabed on 01/04/2024.
 //
 
 import UIKit

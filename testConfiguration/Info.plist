@@ -2,6 +2,54 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>APP_BUNDLE_IDENTIFIER</key>
+	<string>com.lemune.app.staging</string>
+	<key>APP_NAME</key>
+	<string>testlemune</string>
+	<key>AssociatedDomains</key>
+	<array>
+		<string>applinks:sub.example.com2</string>
+		<string>applinks:example.com2</string>
+	</array>
+	<key>BundleURLName</key>
+	<string>com.lemune.app.staging</string>
+	<key>BundleUrlSchemes</key>
+	<array>
+		<string>d</string>
+		<string>c</string>
+		<string>b</string>
+		<string>a</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.lemune.app.staging</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>d</string>
+				<string>c</string>
+				<string>b</string>
+				<string>a</string>
+			</array>
+		</dict>
+	</array>
+	<key>FirebaseDynamicLinksCustomDomains</key>
+	<array>
+		<string>https://app.hala.com</string>
+	</array>
+	<key>MY_CUSTOM_KEY</key>
+	<string>my_custom_value</string>
+	<key>NSAppTransportSecurity</key>
+	<dict/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>font1.otf</string>
+		<string>Kasper Lullaby.otf</string>
+		<string>font2.ttf</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

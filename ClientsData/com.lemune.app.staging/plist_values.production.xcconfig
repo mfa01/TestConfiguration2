@@ -1,0 +1,10 @@
+//
+//  Config1.xcconfig
+//  testConfiguration
+//
+//  Created by Mohammad Alabed on 03/04/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Pods/Target Support Files/Pods-projBatata/Pods-projBatata.production.xcconfig"
